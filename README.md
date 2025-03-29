@@ -21,8 +21,8 @@
 
 📫 ¿Dónde encontrarme?
 
-💼 LinkedIn: linkedin.com/in/cesar-cayaffa
+💼 **LinkedIn:** [in/cesar-cayaffa](https://linkedin.com/in/cesar-cayaffa)
 
-📩 Email: cesarcayaffa0@gmail.com
+📩 **Email:** cesarcayaffa0@gmail.com
 
 🚀 ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones!
