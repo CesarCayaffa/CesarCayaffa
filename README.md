@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy César Cayaffa
 
-<!--
-**CesarCayaffa/CesarCayaffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero en Computación y Desarrollador Web & Backend con experiencia en la creación de aplicaciones dinámicas, eficientes y escalables. Me gusta trabajar con tecnologías modernas y mejorar constantemente mis habilidades.
 
-Here are some ideas to get you started:
+🎯 Áreas de interés: 
+- Desarrollo Frontend y Backend.
+- Bases de datos.
+- Optimización de código y buenas prácticas en desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🚀 Tecnologías y herramientas con las que trabajo:
+
+🖥️ Frontend:
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,angular" alt="Frontend Skills"/> </p>
+⚙️ Backend & Bases de Datos:
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,sqlite" alt="Backend & Databases"/> </p>
+🛠️ Otras herramientas y tecnologías:
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Other Tools"/> </p>
+
+
+📫 ¿Dónde encontrarme?
+
+💼 LinkedIn: linkedin.com/in/cesar-cayaffa
+
+📩 Email: cesarcayaffa0@gmail.com
+
+🚀 ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones!
